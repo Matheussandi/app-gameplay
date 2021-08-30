@@ -1,0 +1,1 @@
+declare module "*.png"; //tipagem para todo arquivo (por isso do *) que termina com .png
