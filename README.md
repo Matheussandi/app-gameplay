@@ -1,5 +1,3 @@
-![AplicativoGameplay](https://github.com/Matheussandi/aplicativoGameplay/blob/main/assets/icon2.png)
-
 # 📱 Projeto
 
 Aplicativo autenticado com o Discord, cujo objetivo é te ajudar a organizar uma partida para jogar com os amigos, seja por diversão ou por subir de ranking. Por fim, isso tudo foi realizado através da NLW 06 da RocketSeat 🚀🚀🚀.
