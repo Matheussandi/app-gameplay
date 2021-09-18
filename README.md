@@ -1,6 +1,6 @@
 # 📱 Projeto
 
-Aplicativo com autenticação do Discord, cujo objetivo é te ajudar a organizar uma partida para jogar com os amigos, seja por diversão ou por subir de ranking. Por fim, isso tudo foi realizado através da NLW 06 da RocketSeat 🚀🚀🚀.
+Aplicativo com autenticação do Discord, cujo objetivo é te ajudar a organizar uma partida para jogar com os amigos, seja por diversão ou por subir de ranking. Por fim, isso tudo foi desenvolvido em React Native através da NLW 06 da RocketSeat 🚀🚀🚀.
 
 # 🛠️ Recursos
 
