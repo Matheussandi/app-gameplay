@@ -1,4 +1,4 @@
-
+![AplicativoGameplay](https://github.com/Matheussandi/aplicativoGameplay/blob/main/assets/icon.png)
 
 # 📱 Projeto
 
