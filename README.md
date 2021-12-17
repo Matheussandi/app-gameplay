@@ -4,57 +4,57 @@ Aplicativo com autenticação do Discord, cujo objetivo é te ajudar a organizar
 
 # 🛠️ Recursos
 
- ✔️ Autenticação Social OAuth2 com servidor do Discord.
+- [x] Autenticação Social OAuth2 com servidor do Discord.
  
- ✔️ Obtém perfil do usuário cadastro no Discord;
+- [x] Obtém perfil do usuário cadastro no Discord;
  
- ✔️ Lista os servidores do Discord que o usuário faz parte;
+- [x] Lista os servidores do Discord que o usuário faz parte;
  
- ✔️ Permite realizar o agendamento de partidas;
+- [x] Permite realizar o agendamento de partidas;
  
- ✔️ Permite filtrar as partidas por categoria;
+- [x] Permite filtrar as partidas por categoria;
  
- ✔️ Exibe se a partida foi agendada em um servidor próprio ou em servidores de outros;
+- [x] Exibe se a partida foi agendada em um servidor próprio ou em servidores de outros;
  
- ✔️ Compartilha o convite para ingressar no servidor do usuário;
+- [x] Compartilha o convite para ingressar no servidor do usuário;
  
- ✔️ Permite redirecionar o usuário para o seu próprio servidor;
+- [x] Permite redirecionar o usuário para o seu próprio servidor;
  
- ✔️ Disponibiliza a função de Logout.
+- [x] Disponibiliza a função de Logout.
  
 # 👨‍💻 Tecnologias
 
- ● React Native
+- [React Native](https://reactnative.dev/)
  
- ● Typescript
+- [Typescript](https://www.typescriptlang.org/)
  
- ● Expo
+- [Expo](https://expo.dev/)
  
- ● Context API
+- Context API
  
- ● Async Storage
+- Async Storage
  
- ● Vector Icons
+- Vector Icons
  
- ● React Native Svg e Svg Transform
+- React Native Svg e Svg Transform
  
- ● Axios
+- [Axios](https://axios-http.com/docs/intro)
  
- ● Gradient colors
+- Gradient colors
  
- ● OAuth2 Discord
+- OAuth2 Discord
  
- ● Expo Google Fonts
+- [Expo Google Fonts](https://fonts.google.com/)
  
- ● React Navigation Stack
+- React Navigation Stack
  
- ● React Native Gesture Handler
+- React Native Gesture Handler
  
- ● Expo Authentication
+- Expo Authentication
  
- ● React Native Share
+- React Native Share
  
- ● Deep Link
+- Deep Link
  
 # ▶️ Executando o projeto
 Basta apenas instalar as dependências do projeto utilizando yarn ou o npm install. Em seguida, inicie o projeto.
