@@ -2,6 +2,10 @@
 
 Aplicativo com autenticação do Discord, cujo objetivo é te ajudar a organizar uma partida para jogar com os amigos, seja por diversão ou por subir de ranking. Por fim, isso tudo foi desenvolvido em React Native através da NLW 06 da RocketSeat 🚀🚀🚀.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/29473781/147509506-6088a707-c2d0-4d65-86c7-8ca6104d54dd.gif" />
+</p>
+
 # 🛠️ Recursos
 
 - [x] Autenticação Social OAuth2 com servidor do Discord.
